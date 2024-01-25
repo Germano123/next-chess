@@ -1,0 +1,14 @@
+{
+    "r": "./pieces/rook_b.png",
+    "n": "./pieces/knight_b.png",
+    "b": "./pieces/bishop_b.png",
+    "q": "./pieces/queen_b.png",
+    "k": "./pieces/king_b.png",
+    "p": "./pieces/bishop_b.png",
+    "R": "./pieces/rook_w.png",
+    "N": "./pieces/knight_w.png",
+    "B": "./pieces/bishop_w.png",
+    "Q": "./pieces/queen_w.png",
+    "K": "./pieces/king_w.png",
+    "P": "./pieces/king_w.png"
+}
